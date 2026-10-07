@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Digits of an Integer/Digits of an Integer.vcxproj" Id="35ee0ca9-6f88-4dad-b487-d28b5d245acf" />
+</Solution>

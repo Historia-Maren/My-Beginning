@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Arithmatic,Smallest and Largest/Arithmatic,Smallest and Largest.vcxproj" Id="7db3b493-a9b1-47f9-8ef8-856b64501378" />
+</Solution>
