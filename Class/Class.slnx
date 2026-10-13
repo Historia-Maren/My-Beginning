@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Class/Class.vcxproj" Id="f8816ed7-f22a-4da5-b9ee-ed382649f780" />
+  <Project Path="Employee/Employee.vcxproj" Id="e941a56f-88ab-4cb0-ad7e-abae1cae730d" />
+  <Project Path="Gradebook/Gradebook.vcxproj" Id="628ebd60-e5ab-4199-a56b-09cdb881d493" />
+</Solution>
