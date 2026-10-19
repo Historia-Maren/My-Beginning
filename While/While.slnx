@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Palindromes/Palindromes.vcxproj" Id="e95c2e52-69ac-4cb3-925c-11dba34530c5" />
+  <Project Path="Printing the Decimal Equivalent of a Binary Number/Printing the Decimal Equivalent of a Binary Number.vcxproj" Id="05e2b0b0-8503-4341-840f-028b2b80c6d6" />
+  <Project Path="Sides of a Right Triangle/Sides of a Right Triangle.vcxproj" Id="4356cfed-83a1-4d8a-b4a6-1ddb7e5f05e3" />
+  <Project Path="While/While.vcxproj" Id="0baedff5-6962-48c6-84d2-6ef551d470b4" />
+</Solution>
