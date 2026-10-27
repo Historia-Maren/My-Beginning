@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exam2/Exam2.vcxproj" />
+  <Project Path="modify/modify.vcxproj" />
+  <Project Path="Num shape/Num shape.vcxproj" />
+</Solution>

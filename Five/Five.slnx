@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Drawing Patterns with Nested for Loops/Drawing Patterns with Nested for Loops.vcxproj" Id="816deb08-8fd9-47c0-9432-6489ff8af194" />
+  <Project Path="Five/Five.vcxproj" Id="030daeb8-a810-406a-b809-f5a9b4afa5b9" />
+  <Project Path="Gradebook modification/Gradebook modification.vcxproj" Id="89ee8b13-b43a-42f8-8db1-09326e1a5422" />
+  <Project Path="Pythagorean Triples/Pythagorean Triples.vcxproj" Id="b0a1a728-cd57-41b1-a133-61ababbdd4ab" />
+</Solution>
